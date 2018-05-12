@@ -1,5 +1,8 @@
 _repo: L-Assommoir_8558
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -16,6 +19,8 @@ description: "L'Assommoir [lasɔmwaʁ] (1877) is the seventh novel in Émile Zol
   \ novel—a study of alcoholism and poverty in the working-class districts of Paris—was\
   \ a huge commercial success and helped establish Zola's fame and reputation throughout\
   \ France and the world.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8558#L-Assommoir
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
